@@ -1,0 +1,14 @@
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\DesafioPreAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\DesafioPreAS.AssemblyInfoInputs.cache
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\DesafioPreAS.AssemblyInfo.cs
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\DesafioPreAS.csproj.CoreCompileInputs.cache
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\bin\Debug\net8.0\DesafioPreAS.exe
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\bin\Debug\net8.0\DesafioPreAS.deps.json
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\bin\Debug\net8.0\DesafioPreAS.runtimeconfig.json
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\bin\Debug\net8.0\DesafioPreAS.dll
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\bin\Debug\net8.0\DesafioPreAS.pdb
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\DesafioPreAS.dll
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\refint\DesafioPreAS.dll
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\DesafioPreAS.pdb
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\DesafioPreAS.genruntimeconfig.cache
+C:\Users\gufer\Desktop\ADS\2024-1\LAB. PROGRAMAÇÃO\DesafioPreAS\obj\Debug\net8.0\ref\DesafioPreAS.dll
